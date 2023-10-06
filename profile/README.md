@@ -1,3 +1,13 @@
 # Hello
 
-Visit (KAsimov.korea.ac.kr)[kasimov.korea.ac.kr] website
+Visit [KAsimov.korea.ac.kr](kasimov.korea.ac.kr) website
+
+`KAsimov`는 Korea University의 K와
+로봇 3원칙으로 유명한 Issac Asimov의 합성어로,
+문학자와 같이 로봇을 꿈꾸고 공학자와 같이 개발하며
+사람으로서의 윤리를 생각하는 고려대학교 기계공학부 소모임 지능로봇동아리의 이름입니다.
+
+KAsimov는 2000년, 송재복 교수님의 지도 아래 지능로봇학회에서 시작하여 2003년 동아리 형태를 갖춘 뒤로,
+전국지능로봇경진대회를 비롯한 각종 대회와 행사에서 다양한 업적을 이루며
+지금도 로봇의 하드웨어(설계/제작), 소프트웨어(프로그래밍)를 모두 아우르는 제작 활동을 하는
+고려대학교 기계공학부 소속 예비 로봇공학자들의 열린 모임입니다.
